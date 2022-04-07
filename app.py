@@ -1,3 +1,6 @@
+# 6D / 19090072 / Muhammad Shuro Fadhillah
+# 6D / 19090118 / Ramadhani Fauzi Azhar
+
 from datetime import datetime
 from flask import Flask, request, jsonify
 import os
